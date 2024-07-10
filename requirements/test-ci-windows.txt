@@ -12,3 +12,4 @@ codecov
 -r extras/brotli.txt
 -r extras/zstd.txt
 -r extras/sqlalchemy.txt
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
